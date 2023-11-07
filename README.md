@@ -17,7 +17,7 @@
   <ul>
     <li>Artificial Intelligence in Entrepreneurial Mindfulness using CRISP-DM Method (https://ieeexplore.ieee.org/document/9971384/)</li>
     <li>UX Analysis on Entrepreneurial Mindfulness Application (Presented at a conference, but hasn't been published yet)</li>
-    <li>Recommendation System Based Collaborative Filtering for Deciding Travelling Place (Presented at a conference, but hasn't been published yet)</li>
+    <li>Recommendation System Based Collaborative Filtering for Deciding Travelling Place (https://ieeexplore.ieee.org/abstract/document/10284657/)</li>
   </ul>
 
 <h2>MAIN GITHUB PROJECTS ✅</h2>
